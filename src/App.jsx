@@ -10,7 +10,7 @@ import CalmCarryOn from "./components/content/CalmCarryOn";
 import FinalCall from "./components/content/FinalCall";
 import DevelopmentSchedules from "./components/content/DevelopmentSchedules";
 import ManufacturingConstructions from "./components/content/ManufacturingConstructions";
-import Contact from "./components/content/Contact";
+import ContactForm from "./components/ContactForm";
 
 function App() {
   return (
@@ -23,9 +23,9 @@ function App() {
       <CalmCarryOn />
       <TaskForcesPseudoSciences />
       <FinalCall />
-      <ManufacturingConstructions/>
+      <ManufacturingConstructions />
       <DevelopmentSchedules />
-      <Contact/>
+      <ContactForm />
     </div>
   );
 }
