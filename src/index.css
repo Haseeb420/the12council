@@ -1,0 +1,17 @@
+@import './styles/fonts.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Avenir Next', 'sans-serif';
+  font-size: 14px;
+}
+
+.header-image {
+  width: 10%;
+  display: block;
+  margin: 1.5rem auto;
+}
