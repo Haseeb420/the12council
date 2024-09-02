@@ -1,29 +1,28 @@
 function TaskForcesPseudoSciences() {
   return (
     <div className="w-11/12 mx-auto p-4">
-      <h1 className="text-2xl font-bold">12 TASK FORCES</h1>
+      <h1 className=" font-bold">12 TASK FORCES:</h1>
       <p className="mb-4">
-        ‘Initial Proposal’—Our planned HQ giant 3D printing factories for
-        emergency distribution exercises will be located at 12 equally
-        positioned locations around the equator. These bases are designed for
-        rapid emergency distribution, with an estimated response time of zero to
-        two hours. They will also serve as housing for selected KEY individuals
-        until each massive solar storm subsides. We have targeted twelve regions
-        around the equator to build our response team HQ development and
+        ‘Initial Proposal’-Our planned HQ giant 3D printing factories for
+        emergency distributions exercises 12 equally positioned locations around
+        the equator measured for emergency distributions from ETA-(zero to two
+        hours) in response time as well as housing the selected KEY individuals
+        until every massive solar storm subsides. We have targeted twelve
+        regions around the equator to build our response team HQ development and
         operational bases.
       </p>
 
-      <h1 className="text-2xl font-bold">PSEUDO SCIENCES</h1>
+      <h1 className="font-bold">PSEUDO SCIENCES:</h1>
       <p className="mb-4">
-        (a) Alternatively, there are extreme methods to deflect solar storms.
-        For instance, magnetic radiations can be absorbed by water. However,
-        moving 8 billion people under the sea is not a feasible solution.
-      </p>
-      <p>
-        (b) Another alternative to protect the entire planet from solar storms
-        is conceptual and involves technology that is not yet feasible. This is
-        known as the Project Escutcheon Screen, which cannot be established
-        until there is world peace.
+        (a)-Alternatively, There are extreme methods to deflect solar storms,
+        which magnetic radiations can be absorbed by water. But is moving 8
+        billion population under the sea agreeable?
+        <br />
+        <br />
+        (b)-Other alternative to protect entire planet from solar storms, but
+        that is conceptual only and a technology that is incapable of
+        establishment until we have world peace before introduction of the
+        Project Escutcheon Screen.
       </p>
     </div>
   );

@@ -8,7 +8,7 @@ function Modal({ children, isOpen, toggleModal }) {
       <div className="bg-white p-8 rounded-2xl shadow-lg w-full max-w-lg relative">
         <button
           onClick={toggleModal}
-          className="absolute top-4 right-4 text-gray-600 hover:text-gray-900 text-2xl font-bold"
+          className="absolute top-4 right-4 text-gray-600 hover:text-gray-900  font-bold"
         >
           ×
         </button>

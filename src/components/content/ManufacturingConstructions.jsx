@@ -27,9 +27,7 @@ function ManufacturingConstructions() {
 
   return (
     <div className="w-11/12 mx-auto p-4">
-      <h1 className="text-2xl font-bold p-0">
-        Manufacturing and Construction Overview:
-      </h1>
+      <h1 className=" font-bold p-0">MANUFACTURING CONSTRUCTIONS:</h1>
       <p>(Estimated 891 million dollars)</p>
       <DisplayList list={listData} />
     </div>

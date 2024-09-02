@@ -1,7 +1,7 @@
 const DoubleSolutions = () => {
   return (
     <div className="w-11/12 mx-auto p-4">
-      <h1 className="text-2xl font-bold">DOUBLE SOLUTIONS</h1>
+      <h1 className=" font-bold">DOUBLE SOLUTIONS:</h1>
       <p className="">We propose solutions within 2 factors.</p>
       <p className="mb-4">(The Internal Faction) and (The External Faction)</p>
       <div className="mb-4">

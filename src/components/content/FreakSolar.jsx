@@ -1,9 +1,7 @@
-
-
 function FreakSolar() {
   return (
     <div className="w-11/12 mx-auto p-4">
-      <h1 className="text-2xl font-bold">FREAK SOLAR ABSCOND:</h1>
+      <h1 className=" font-bold">FREAK SOLAR ABSCOND:</h1>
       <p className="">
         The last <u>publicly recorded</u> freak incident solar storm was
         September 1st 1859 where humanity was in their infancy with electrical

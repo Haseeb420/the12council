@@ -3,7 +3,7 @@ import HistoricalFloodsList from "./HistoricalFloodsList";
 function GlobalCulling() {
   return (
     <div className="w-11/12 mx-auto p-4">
-      <h1 className="text-2xl font-bold">GLOBAL CULLING REVISTED:</h1>
+      <h1 className=" font-bold">GLOBAL CULLING REVISTED:</h1>
       <p className=" ">
         Above all current natural disasters. A rare one arises. These
         solar-storms epoch has arrived for a stretch of next 20-40 years.
