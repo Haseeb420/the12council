@@ -1,4 +1,3 @@
-import React from "react";
 import DisplayList from "./DisplayList"; // Adjust the import path as needed
 
 function ManufacturingConstructions() {
@@ -27,10 +26,11 @@ function ManufacturingConstructions() {
   ];
 
   return (
-    <div className="w-11/12 md:w-10/12 lg:w-11/12 xl:w-7/12 mx-auto p-4">
+    <div className="w-11/12 mx-auto p-4">
       <h1 className="text-2xl font-bold p-0">
         Manufacturing and Construction Overview:
       </h1>
+      <p>(Estimated 891 million dollars)</p>
       <DisplayList list={listData} />
     </div>
   );

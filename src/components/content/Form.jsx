@@ -34,8 +34,8 @@ import React from "react";
 
 function FreakSolar() {
   return (
-    <div className="w-11/12 md:w-10/12 lg:w-11/12 xl:w-7/12 mx-auto p-4">
-      <h1 className="text-2xl font-bold mb-4">FREAK SOLAR ABSCOND:</h1>
+    <div className="w-11/12 mx-auto p-4">
+      <h1 className="text-2xl font-bold">FREAK SOLAR ABSCOND:</h1>
       <p className="">
         The last publicly recorded freak incident solar storm was September 1st
         1859 where humanity was in their infancy with electrical mechanics. Even

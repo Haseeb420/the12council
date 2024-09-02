@@ -1,9 +1,7 @@
-import React from "react";
-
 function CalmCarryOn() {
   return (
-    <div className="w-11/12 md:w-10/12 lg:w-11/12 xl:w-7/12 mx-auto p-4">
-      <h1 className="text-2xl font-bold mb-4">KEEP CALM, CARRY ON</h1>
+    <div className="w-11/12 mx-auto p-4 bg-none">
+      <h1 className="text-2xl font-bold">KEEP CALM, CARRY ON</h1>
       <p className="mb-4">
         Alternatively, if the above proposal to recover a blackout society
         seemed distasteful (The Internal Faction), at least consider the

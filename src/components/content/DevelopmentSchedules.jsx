@@ -1,9 +1,7 @@
-import React from "react";
-
 function DevelopmentSchedules() {
   return (
-    <div className="w-11/12 md:w-10/12 lg:w-11/12 xl:w-7/12 mx-auto p-4">
-      <h1 className="text-2xl font-bold mb-4">DEVELOPMENT SCHEDULES</h1>
+    <div className="w-11/12 mx-auto p-4">
+      <h1 className="text-2xl font-bold">DEVELOPMENT SCHEDULES</h1>
       <p className="mb-4">
         Our conglomeration of NDA private sectors is willingly stepping out to
         establish a public entity/company for this project. The timeline is set
