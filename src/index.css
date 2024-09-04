@@ -33,7 +33,7 @@ ul li {
   background: transparent;
 }
 
-div, p, ul, .component, u, label, input, form, textarea {
+div, p, ul, h2, .component, u, label, input, form, textarea, img {
   background: transparent;
 }
 
