@@ -2,7 +2,7 @@ import React from "react";
 
 const HistoricalFloodsList = () => {
   return (
-    <div className="p-4">
+    <div className="">
       <ul className="list-none pl-0">
         <li>&gt; The Great Ice Age Flood 18,000 years ago</li>
         <li>&gt; Younger Dryas Flood 14,800 years ago</li>

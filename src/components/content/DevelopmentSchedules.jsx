@@ -1,6 +1,6 @@
 function DevelopmentSchedules() {
   return (
-    <div className="w-11/12 mx-auto p-4">
+    <div className="w-11/12 mx-auto p-4 component">
       <h1 className=" font-bold">DEVELOPMENT SCHEDULES:</h1>
       <p className="mb-4">
         Our conglomeration of NDA private sectors willingly stepping out to

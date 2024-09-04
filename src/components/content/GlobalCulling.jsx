@@ -2,7 +2,7 @@ import HistoricalFloodsList from "./HistoricalFloodsList";
 
 function GlobalCulling() {
   return (
-    <div className="w-11/12 mx-auto p-4">
+    <div className="w-11/12 mx-auto p-4 component">
       <h1 className=" font-bold">GLOBAL CULLING REVISTED:</h1>
       <p className=" ">
         Above all current natural disasters. A rare one arises. These

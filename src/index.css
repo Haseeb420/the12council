@@ -9,9 +9,12 @@
   font-family: 'Avenir Next Cyr Regular', 'sans-serif';
   font-size: 10px;
   /* background: linear-gradient(blue, rgb(0, 132, 255)); */
-  /* line-height: 15px;
-  background: rgb(252, 252, 252);
-    background: linear-gradient(0deg, rgba(252, 252, 252, 1) 0%, rgba(248, 249, 250, 1) 0%, rgba(49, 128, 244, 1) 100%); */
+  line-height: 15px;
+  /* background: #0076FD;
+  background: linear-gradient(0deg, #0076FD 0%, rgba(248, 249, 250, 1) 20%,#0076FD 70%);
+  background: url('./assets/background.jpg') no-repeat; */
+  /* background: linear-gradient(to bottom, #0076FD 80%, #ffffff 20%); */
+  background: linear-gradient(to bottom, #0076FD, #66b3ffd1);
 }
 
 .header-image {
@@ -23,7 +26,18 @@
 h1 {
   font-size: 1.5rem;
   text-decoration: underline;
+  background: transparent;
 }
 ul li {
   text-decoration: underline;
+  background: transparent;
 }
+
+div, p, ul, .component, u, label, input, form, textarea {
+  background: transparent;
+}
+
+.cross-btn {
+  font-size: 30px;
+}
+

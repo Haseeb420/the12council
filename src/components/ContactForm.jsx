@@ -20,7 +20,7 @@ function ContactForm() {
   };
 
   return (
-    <div className="w-11/12 mx-auto p-4 relative">
+    <div className="w-12/12 mx-auto p-4 component relative">
       <EmailButton toggleModal={toggleModal} />
 
       <Modal isOpen={isOpen} toggleModal={toggleModal}>

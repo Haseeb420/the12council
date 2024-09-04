@@ -1,6 +1,6 @@
 function FinalCall() {
   return (
-    <div className="w-11/12 mx-auto p-4">
+    <div className="w-11/12 mx-auto p-4 component">
       <h1 className=" font-bold">A FINAL CALL:</h1>
       <p className="mb-4">
         We hope this proposal can persuade your sector to finance this global
