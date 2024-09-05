@@ -1,12 +1,12 @@
-@import './styles/fonts.css';
+@import "./styles/fonts.css";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-*{
+* {
   padding: 0;
   margin: 0;
-  font-family: 'Avenir Next Cyr Regular', 'sans-serif';
+  font-family: "Avenir Next Cyr Regular", "sans-serif";
   font-size: 10px;
   /* background: linear-gradient(blue, rgb(0, 132, 255)); */
   line-height: 15px;
@@ -18,9 +18,15 @@
 }
 
 .header-image {
-  width: 10%;
+  width: 15%;
   display: block;
   margin: 1.5rem auto;
+}
+
+@media screen and (max-width: 600px) {
+  .header-image {
+    width: 30%;
+  }
 }
 
 h1 {
@@ -33,11 +39,20 @@ ul li {
   background: transparent;
 }
 
-div, p, ul, h2, .component, u, label, input, form, textarea, img {
+div,
+p,
+ul,
+h2,
+.component,
+u,
+label,
+input,
+form,
+textarea,
+img {
   background: transparent;
 }
 
 .cross-btn {
   font-size: 30px;
 }
-

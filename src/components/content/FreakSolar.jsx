@@ -1,6 +1,6 @@
 function FreakSolar() {
   return (
-    <div className="w-11/12 mx-auto p-4 component">
+    <div className="w-9/12 mx-auto p-4 component">
       <h1 className=" font-bold">FREAK SOLAR ABSCOND:</h1>
       <p className="">
         The last <u>publicly recorded</u> freak incident solar storm was

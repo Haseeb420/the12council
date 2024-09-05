@@ -1,7 +1,7 @@
 function CalmCarryOn() {
   return (
     <div className="w-9/12 mx-auto p-4 component component">
-      <h1 className=" font-bold component">“KEEP CALM, CARRY ON”</h1>
+      <h1 className="font-bold component">“KEEP CALM, CARRY ON”</h1>
       <p className="mb-4 component">
         Alternatively if the above proposal to recover a blackout society seemed
         distasteful-(The Internal Faction). At least consider the protection of
