@@ -1,6 +1,6 @@
 function TaskForcesPseudoSciences() {
   return (
-    <div className="w-9/12 mx-auto p-4 component">
+    <div className="w-9/12 lg:w-8/12 mx-auto p-4 component">
       <h1 className=" font-bold">12 TASK FORCES:</h1>
       <p className="mb-4">
         ‘Initial Proposal’-Our planned HQ giant 3D printing factories for
