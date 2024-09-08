@@ -1,5 +1,4 @@
 import React from "react";
-import { ValidationError } from "@formspree/react";
 
 function InputField({ id, type, name, label, errors }) {
   return (
@@ -14,7 +13,6 @@ function InputField({ id, type, name, label, errors }) {
         className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:border-blue-500"
         required
       />
-      <ValidationError prefix={label} field={name} errors={errors} />
     </div>
   );
 }
