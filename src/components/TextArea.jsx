@@ -1,5 +1,4 @@
 import React from "react";
-import { ValidationError } from "@formspree/react";
 
 function TextArea({ id, name, label, rows, errors }) {
   return (
@@ -14,7 +13,6 @@ function TextArea({ id, name, label, rows, errors }) {
         rows={rows}
         required
       ></textarea>
-      <ValidationError prefix={label} field={name} errors={errors} />
     </div>
   );
 }
