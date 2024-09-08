@@ -8,6 +8,7 @@
   margin: 0;
   /* font-family: "Avenir Next Cyr Regular", "sans-serif"; */
   font-size: 10px;
+  font-family: Helvetica, Arial, sans-serif;
   /* background: linear-gradient(blue, rgb(0, 132, 255)); */
   line-height: 15px;
   /* background: #0076FD;
@@ -23,14 +24,11 @@
   margin: 1.5rem auto;
 }
 
-
-
 @media screen and (max-width: 600px) {
   .header-image {
     width: 30%;
   }
 }
-
 
 @media screen and (min-width: 1024px) and (max-width: 1439px) {
   .title {
