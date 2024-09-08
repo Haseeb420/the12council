@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "tailwindcss";
 
 export default defineConfig({
-  base: "/",
+  base: "the12council/",
   plugins: [react()],
   css: {
     postcss: {
